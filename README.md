@@ -1,1 +1,4 @@
-"# frontend parcial 1" 
+# Frontend Primer Parcial
+
+Daniel Cortés García
+dancoweb@gmail.com
